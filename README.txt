@@ -126,7 +126,3 @@ Ticket for Passenger129 canceled.
 ====================================
 Enter choice: 8
 System Closed.
-
-GitHub Repository Link:
-https://github.com/bscs14f2530-ui/SmartTicket
-(Copy and paste this link into your browser to open)

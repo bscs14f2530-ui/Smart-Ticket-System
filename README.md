@@ -1,2 +1,7 @@
-# Smart-Ticket-System
-Smart Ticket Reservation System in C++ demonstrating function overloading, operator overloading, and modular design using a custom header library.
+Student Name: Nishat Afreen  
+Roll Number: 30  
+
+Chosen Problem/Topic: Smart Ticket System
+
+Brief Description:
+This project is a Smart Ticket Reservation System developed in C++. It uses Object-Oriented Programming concepts such as function overloading and operator overloading. The system allows ticket booking, price management, and ticket comparison using a custom header file for modular design.
